@@ -16,7 +16,7 @@
 </div>
 
 
-<h3>Hey Vishwa You Have 👉 <a href="" target="_blank" rel="noopener" >
+<h3>Hey Vishwa You Have 👉 <a href="https://github.com/samadhiy" target="_blank" rel="noopener" >
   <img src="https://komarev.com/ghpvc/?username=samadhiy&style=for-the-badge" alt="Profile Views" style="max-width: 100;"> </a>
 </h3>
 
@@ -32,7 +32,7 @@
 
 - 👨‍💻 All of my projects are available at 
 
-- ⚡ Fun fact **coding Life**
+- ⚡ Fun fact **Listening Music**
 
 <!--
 **samadhiy/samadhiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
