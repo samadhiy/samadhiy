@@ -30,7 +30,7 @@
 
 - 🌱 I’m currently learning **Python, Power BI, Mongo DB**
 
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 All of my projects are available 
 
 - ⚡ Fun fact **Listening Music**
 
