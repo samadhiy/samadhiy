@@ -16,7 +16,7 @@
 </div>
 
 
-<h3>Hey Vishwa You Have 👉 <a href="https://github.com/samadhiy" target="_blank" rel="noopener" >
+<h3>Hey Samadhi You Have 👉 <a href="https://github.com/samadhiy" target="_blank" rel="noopener" >
   <img src="https://komarev.com/ghpvc/?username=samadhiy&style=for-the-badge" alt="Profile Views" style="max-width: 100;"> </a>
 </h3>
 
